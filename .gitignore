@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+build/
+outputs/
+*_F*_D*.txt
+*_f_F*_D*_.txt
+*_G_F*_D*.txt
+*_H_F*_D*.txt
+time_complexity.txt
+*.o
+*.out
+*.aux
+*.fdb_latexmk
+*.fls
+*.log

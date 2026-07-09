@@ -5,6 +5,12 @@
 ![Track](https://img.shields.io/badge/Track-CSOPs-green)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B%20%2B%20Python-lightgrey)
 
+<p align="center">
+  <strong>English</strong> |
+  <a href="README.zh-CN.md">中文</a> |
+  <a href="README.ja.md">日本語</a>
+</p>
+
 **RDE26-CSOP is the official Champion and Rank 1 winner of Competition 2-CSOPs in the IEEE WCCI 2026 / IEEE CEC 2026 Competition on Numerical Optimization Considering Accuracy and Speed.**
 
 This repository provides the final open-source algorithm package for the constrained single-objective optimization track.
